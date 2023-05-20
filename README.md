@@ -1,7 +1,7 @@
 - 👋 Hi, I’m solomon mwalupani
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning php, laravel
-- 💞️ I’m looking to collaborate on php with laravel framework project
+- 🌱 I’m currently learning PHP, Laravel, Angular.js
+- 💞️ I’m looking to collaborate on php with laravel & Angular.js project
 - 📫 How to reach me by email mwalupani1234@gmail.com
 
 <!---
